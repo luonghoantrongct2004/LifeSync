@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AmountNotZero" xml:space="preserve">
+    <value>Số tiền không được bằng 0.</value>
+  </data>
+  <data name="AmountTooSmall" xml:space="preserve">
+    <value>Số tiền quá nhỏ.</value>
+  </data>
+  <data name="AmountTooLarge" xml:space="preserve">
+    <value>Số tiền quá lớn.</value>
+  </data>
+  <data name="DescriptionRequired" xml:space="preserve">
+    <value>Mô tả là bắt buộc.</value>
+  </data>
+  <data name="DescriptionMaxLength" xml:space="preserve">
+    <value>Mô tả tối đa 500 ký tự.</value>
+  </data>
+  <data name="CategoryRequired" xml:space="preserve">
+    <value>Danh mục là bắt buộc.</value>
+  </data>
+  <data name="CategoryMaxLength" xml:space="preserve">
+    <value>Danh mục tối đa 100 ký tự.</value>
+  </data>
+  <data name="DateNotFuture" xml:space="preserve">
+    <value>Ngày không được ở tương lai.</value>
+  </data>
+</root> 

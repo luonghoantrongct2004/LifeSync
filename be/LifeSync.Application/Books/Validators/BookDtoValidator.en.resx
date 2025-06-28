@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="TitleRequired" xml:space="preserve">
+    <value>Title is required.</value>
+  </data>
+  <data name="TitleMaxLength" xml:space="preserve">
+    <value>Title must be at most 200 characters.</value>
+  </data>
+  <data name="AuthorMaxLength" xml:space="preserve">
+    <value>Author must be at most 100 characters.</value>
+  </data>
+  <data name="LanguageRequired" xml:space="preserve">
+    <value>Language is required.</value>
+  </data>
+  <data name="LanguageAllowed" xml:space="preserve">
+    <value>Language must be 'en' (English) or 'vi' (Vietnamese).</value>
+  </data>
+  <data name="PdfUrlRequired" xml:space="preserve">
+    <value>PDF Url is required.</value>
+  </data>
+  <data name="PdfUrlMaxLength" xml:space="preserve">
+    <value>PDF Url must be at most 500 characters.</value>
+  </data>
+  <data name="PdfUrlValid" xml:space="preserve">
+    <value>PDF Url must be a valid URL.</value>
+  </data>
+</root> 

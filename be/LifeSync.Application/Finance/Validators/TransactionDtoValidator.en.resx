@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="AmountNotZero" xml:space="preserve">
+    <value>Amount must not be zero.</value>
+  </data>
+  <data name="AmountTooSmall" xml:space="preserve">
+    <value>Amount is too small.</value>
+  </data>
+  <data name="AmountTooLarge" xml:space="preserve">
+    <value>Amount is too large.</value>
+  </data>
+  <data name="DescriptionRequired" xml:space="preserve">
+    <value>Description is required.</value>
+  </data>
+  <data name="DescriptionMaxLength" xml:space="preserve">
+    <value>Description must be at most 500 characters.</value>
+  </data>
+  <data name="CategoryRequired" xml:space="preserve">
+    <value>Category is required.</value>
+  </data>
+  <data name="CategoryMaxLength" xml:space="preserve">
+    <value>Category must be at most 100 characters.</value>
+  </data>
+  <data name="DateNotFuture" xml:space="preserve">
+    <value>Date cannot be in the future.</value>
+  </data>
+</root> 

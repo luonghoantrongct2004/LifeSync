@@ -1,0 +1,36 @@
+# .NET
+be/**/bin/
+be/**/obj/
+be/**/out/
+be/**/.vs/
+be/**/.vscode/
+be/**/*.user
+be/**/*.suo
+be/**/*.userosscache
+be/**/*.sln.docstates
+be/**/TestResults/
+be/**/build/
+be/**/publish/
+be/**/node_modules/
+be/**/packages/
+be/**/App_Data/
+be/**/appsettings.*.json
+!be/**/appsettings.json
+
+# Logs
+*.log
+
+# Next.js
+fe/.next/
+fe/node_modules/
+fe/.env*
+fe/.turbo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.swp
+*.swo
+*.tmp 

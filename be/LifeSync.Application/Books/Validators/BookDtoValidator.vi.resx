@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="TitleRequired" xml:space="preserve">
+    <value>Tiêu đề là bắt buộc.</value>
+  </data>
+  <data name="TitleMaxLength" xml:space="preserve">
+    <value>Tiêu đề tối đa 200 ký tự.</value>
+  </data>
+  <data name="AuthorMaxLength" xml:space="preserve">
+    <value>Tác giả tối đa 100 ký tự.</value>
+  </data>
+  <data name="LanguageRequired" xml:space="preserve">
+    <value>Ngôn ngữ là bắt buộc.</value>
+  </data>
+  <data name="LanguageAllowed" xml:space="preserve">
+    <value>Ngôn ngữ chỉ được phép là 'en' (Tiếng Anh) hoặc 'vi' (Tiếng Việt).</value>
+  </data>
+  <data name="PdfUrlRequired" xml:space="preserve">
+    <value>Đường dẫn PDF là bắt buộc.</value>
+  </data>
+  <data name="PdfUrlMaxLength" xml:space="preserve">
+    <value>Đường dẫn PDF tối đa 500 ký tự.</value>
+  </data>
+  <data name="PdfUrlValid" xml:space="preserve">
+    <value>Đường dẫn PDF phải là một URL hợp lệ.</value>
+  </data>
+</root> 
